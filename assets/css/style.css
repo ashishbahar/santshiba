@@ -225,7 +225,7 @@ td {
     content: "";
     position: absolute;
     background: linear-gradient(94.88deg, rgba(255, 255, 255, 0.1) 0.97%, rgba(255, 255, 255, 0) 103.14%);
-    backdrop-filter: blur(16px);
+   
     width: 0;
     height: 100%;
     top: 0;
