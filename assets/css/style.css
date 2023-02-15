@@ -192,7 +192,6 @@ td {
     background-image: url(../img/png/section-1-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
 .ratio {
@@ -687,6 +686,9 @@ td {
         padding-left: 100px;
         padding-top: 20px;
     }
+        .ratio {
+        max-width: 600px;
+        }
 
     .ml_3xl_0 {
         margin-right: 0 !important;
